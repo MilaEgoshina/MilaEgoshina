@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://otkritkis.com/wp-content/uploads/2022/07/ifa7n.gif" align="center" style="width: 100%" />
+<img src="https://otkritkis.com/wp-content/uploads/2022/07/ifa7n.gif" align="center" style="width: 50%" />
 </div>  
   
 
