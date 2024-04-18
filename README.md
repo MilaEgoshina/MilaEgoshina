@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://otkritkis.com/wp-content/uploads/2022/07/ifa7n.gif" align="center" style="width: 50%" />
+<img src="https://otkritkis.com/wp-content/uploads/2022/07/ifa7n.gif" align="center" style="width: 60%" />
 </div>  
   
 
 ## Hello👋, I'm Java Developer, Mila💻  
-  
+ 
 
 <div align="center">
 <a href="https://github.com/https://github.com/MilaEgoshina" target="_blank">
@@ -42,8 +42,6 @@ While still a student, I worked in technical. support, solving the technical sid
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 - 🔭 As I consider,my biggest and no less relevant project in our time - [Emergency Notification System](https://github.com/MilaEgoshina/emergency-system)  
   
 
@@ -55,13 +53,7 @@ start a [new project](https://github.com/MilaEgoshina/road-material-calculator) 
   
 
 * ✔️ 2024 Goals: Contribute to Open Source projects  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+  
 
 <br/>  
 
@@ -88,8 +80,6 @@ start a [new project](https://github.com/MilaEgoshina/road-material-calculator) 
 
 <br/>  
 
-
-## Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilaEgoshina&hide_border=true&layout=compact" align="left" style="width: 100%" />  
@@ -114,7 +104,4 @@ start a [new project](https://github.com/MilaEgoshina/road-material-calculator) 
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
