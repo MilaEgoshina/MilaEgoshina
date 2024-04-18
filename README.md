@@ -80,9 +80,9 @@ start a [new project](https://github.com/MilaEgoshina/road-material-calculator) 
 
 <br/>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilaEgoshina&hide_border=true&layout=compact" align="left" style="width: 100%" />  
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilaEgoshina&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=MilaEgoshina&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MilaEgoshina&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
