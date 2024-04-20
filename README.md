@@ -81,7 +81,7 @@ start a [new project](https://github.com/MilaEgoshina/road-material-calculator) 
 
 <br/>  
 
-<div align="center"><img src="[https://github-readme-streak-stats.herokuapp.com/?user=MilaEgoshina](https://github-readme-streak-stats.herokuapp.com?user=MilaEgoshina&theme=sunset-gradient)" align="center" /></div>  
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=MilaEgoshina&theme=sunset-gradient" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MilaEgoshina&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
@@ -98,6 +98,5 @@ start a [new project](https://github.com/MilaEgoshina/road-material-calculator) 
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 
