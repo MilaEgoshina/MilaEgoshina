@@ -83,7 +83,11 @@ start a [new project](https://github.com/MilaEgoshina/road-material-calculator) 
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=MilaEgoshina&theme=sunset-gradient" align="center" /></div>  
 
-<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MilaEgoshina&theme=highcontrast" align="right" /></div>  
+<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MilaEgoshina&theme=highcontrast" align="center" /></div>  
+
+<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MilaEgoshina&theme=highcontrast" align="left" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MilaEgoshina&theme=highcontrast" align="right" />
+</div>  
 
 <br/>  
 
