@@ -1,11 +1,8 @@
 <div align="center">
 <img src="https://otkritkis.com/wp-content/uploads/2022/07/ifa7n.gif" align="center" style="width: 60%" />
 </div>  
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Java+developer)](https://git.io/typing-svg)
-</div> 
 
-  
+
 
 ## Hello👋, I'm Java Developer, Mila💻  
   
