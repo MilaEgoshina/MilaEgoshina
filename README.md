@@ -89,6 +89,10 @@ start a [new project](https://github.com/MilaEgoshina/road-material-calculator) 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MilaEgoshina&theme=highcontrast" align="center" />
 </div>  
 
+<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MilaEgoshina&theme=highcontrast" align="center" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MilaEgoshina&theme=highcontrast&utcOffset=8" align="center" />
+</div>  
+
 <br/>  
 
   
