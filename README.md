@@ -50,9 +50,10 @@ While still a student, I worked in technical. support, solving the technical sid
 start a [new project](https://github.com/MilaEgoshina/road-material-calculator) to automate the work of a road construction company  
   
 
-- 👨‍💻 I’m currently learning CI/CD and Kubernetes.  
-  
+- 👨‍💻 I’m currently learning CI/CD and Kubernetes.
 
+- ⚡ In my free time, I solve problems on LeetCode, read tech articles/books, and exercising!
+  
 * ✔️ 2024 Goals: Contribute to Open Source projects  
   
 
