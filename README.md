@@ -46,8 +46,7 @@ While still a student, I worked in technical. support, solving the technical sid
 - 🔭 As I consider,my biggest and no less relevant project in our time - [Emergency Alert System](https://github.com/MilaEgoshina/emergency-alert-system)  
   
 
-- 🌱 I’m currently working to improve the [project](https://github.com/MilaEgoshina/emergency-alert-system)
-)) above and 
+- 🌱 I’m currently working to improve the [project](https://github.com/MilaEgoshina/emergency-alert-system) above and 
 start a [new project](https://github.com/MilaEgoshina/road-material-quality-system) to automate the work of a road construction company  
   
 
