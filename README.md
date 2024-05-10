@@ -54,7 +54,7 @@ start a [new project](https://github.com/MilaEgoshina/road-material-quality-syst
 
 - ⚡ In my free time, I solve problems on LeetCode, read tech articles/books, and exercising!
   
-* ✔️ 2024 Goals: Contribute to Open Source projects  
+* ✔️ 2024 Goals: Contribute to Open Source projects and take part in programming competitions.
   
 
 <br/>  
