@@ -29,11 +29,11 @@ While still a student, I worked in technical. support, solving the technical sid
 
 **Shortly about myself and my achievements:**
 
+* Organized the team's work using Scrum and hired, trained and helped with onboarding 7 new employees (including 3 new programmers, and also participated in their technical interviews).
+
 * Participated in the developing code to refine the application for the client's tasks, which helped optimize this application by 10%.
 
  * Together with information security specialists, developed a system to improve information security for clients, which made it possible to prevent at least 7 fraudulent transactions.
-
-* Hired 6 new employees (including 3 new programmers, and also participated in their technical interviews).
 
 * And I'm not afraid to learn new things.
   
